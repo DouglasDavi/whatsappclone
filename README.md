@@ -1,3 +1,17 @@
+# whatsappclone
+Aplicação parecida com whats app web, feito em react
+
+# importante criar um arquivo chamado "firebaseConfig.js" com o código do seu projeto exemplo
+// firebaseConfig<br>
+export default {
+    <br>apiKey: "************",
+    <br>authDomain: "**************",
+    <br>projectId: "****************",
+    <br>storageBucket: "whatsappclone-da6bc.appspot.com",
+    <br>messagingSenderId: "5**************9",
+    <br>appId: "1:54**************************c"
+  <br>};
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
